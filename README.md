@@ -1,5 +1,7 @@
 # New-York-Stock-Exchange-Prediction-
 
+![logo](nysc.png)
+
 ## AIM:
 - To train a model to get the prediction of "New York Stock Exchange" with respect to time further ahead
 - We here has the value of 2016 whole year 
